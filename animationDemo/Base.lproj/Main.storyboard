@@ -46,6 +46,7 @@
                         </constraints>
                     </view>
                     <connections>
+                        <outlet property="cardViews" destination="tvO-Fz-E7Z" id="HDF-IH-yy9"/>
                         <outlet property="playingCardView" destination="tvO-Fz-E7Z" id="mQN-RE-VIw"/>
                     </connections>
                 </viewController>
